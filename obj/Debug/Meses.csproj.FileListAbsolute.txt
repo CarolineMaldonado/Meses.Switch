@@ -1,0 +1,8 @@
+C:\Users\carol\source\repos\Meses\obj\Debug\Meses.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\Meses\obj\Debug\Meses.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\source\repos\Meses\obj\Debug\Meses.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Meses\bin\Debug\Meses.exe.config
+C:\Users\carol\source\repos\Meses\bin\Debug\Meses.exe
+C:\Users\carol\source\repos\Meses\bin\Debug\Meses.pdb
+C:\Users\carol\source\repos\Meses\obj\Debug\Meses.exe
+C:\Users\carol\source\repos\Meses\obj\Debug\Meses.pdb
